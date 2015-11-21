@@ -171,13 +171,13 @@ a {
 }
 
 a:hover {
-    color: #86c440;
+    color: #2967c4;
 }
 
 a.btn {
     
     text-decoration: none;
-    background-color: #9fd067;
+    background-color: #4073C5;
     border-radius: 6px;
     -webkit-border-radius: 6px;
     color: white;
@@ -197,17 +197,17 @@ a.btn {
 }
 
 a.btn:hover {
-    background: #86c440;
+    background: #2967c4;
 }
 
 #header-arrow {
-    font-size: 140px;
+    font-size: 64px;
     margin: -10px auto;
     text-align: center;
     position: absolute;
     width: 100%;
     left: 0;
-    bottom: -120px;
+    bottom: -60px;
     cursor: pointer;
     opacity: 0.6;
     transition: all ease 0.3s;
@@ -453,7 +453,7 @@ ul li {
     margin-bottom: 0rem;
     text-align: center;
     color: #fff;
-    background: rgb(0, 153, 204) no-repeat center center;
+    background: #4073C5 no-repeat center center;
     background-size: cover;
 }
 
